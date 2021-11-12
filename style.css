@@ -1,0 +1,16 @@
+h1{
+    font-size: 30px;
+    color: rgb(183, 196, 73);
+    padding-top: 30px;
+}
+body{
+    background: linear-gradient(#17389c 0%, #b83833 100% );
+}
+img{
+    width: 500px;
+    margin: 5px;
+    transition: transform.2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
